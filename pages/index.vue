@@ -5,7 +5,7 @@
       <h1 class="title">Strapi-Auth</h1>
       <div class="links">
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="#"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
